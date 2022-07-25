@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeetb2022
 - 👀 I’m interested in Programming and look forward to learning something new about it. 
-- 🌱 I’m currently learning data structures and algorithm and have explored many diffrent programming languages.
+- 🌱 I’m currently learning data structures and algorithm and have explored many different programming languages.
 - 💞️ I’m looking to collaborate on Projects that interests me.
 - 📫 You can contact me through linkedin @jeet bhadaniya.
 
