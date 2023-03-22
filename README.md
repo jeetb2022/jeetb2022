@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jeet-bhadaniya-037013235/)">
+  <a href="https://www.linkedin.com/in/jeet-bhadaniya-037013235/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codechef.com/users/silky_slide">
